@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--cmcloud-hs4kt78ak46h.com/sitemap.xml
